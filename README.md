@@ -10,8 +10,8 @@ I've been learning to code for 3 years, after switching careers. From mechanical
 * 🖥️  See my portfolio at [Profile](http://caoh29.dev)
 * ✉️  You can contact me at [cronox20@gmail.com](mailto:cronox20@gmail.com)
 * 🚀  I'm currently working on [PetShop](http://store.caoh29.dev)
-* 🧠  I'm learning NestJs and Spring boot
-* 🤝  I'm open to collaborating on IoT projects as well as Web development projects
+* 🧠  I'm learning NestJs and Tensorflow
+* 🤝  I'm open to collaborating on IoT, machine learning and web development projects
 
 <a href="https://www.x.com/92iMAHC" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/92iMAHC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
