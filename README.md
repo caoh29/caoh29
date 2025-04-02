@@ -10,7 +10,7 @@ I've been learning to code for 3 years, after switching careers. From mechanical
 * 🖥️  See my portfolio at [Profile](http://caoh29.dev)
 * ✉️  You can contact me at [cronox20@gmail.com](mailto:cronox20@gmail.com)
 * 🚀  I'm currently working on [lc-auth](https://www.npmjs.com/package/lc-auth)
-* 🧠  I'm learning NestJs and Tensorflow
+* 🧠  I'm learning Springboot and Tensorflow
 * 🤝  I'm open to collaborating on IoT, machine learning and web development projects
 
 <a href="https://www.x.com/92iMAHC" target="_blank" rel="noreferrer"><img
