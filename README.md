@@ -4,14 +4,14 @@ Hi 👋 My name is Camilo Ordonez
 Software developer
 ------------------
 
-I've been learning to code for 3 years, after switching careers. From mechanical engineer to software developer. Here I am! I started with the basics like HTML, CSS and JavasScript, but recently I have found a passion for the entire Web development spectrum, both backend and frontend, as well as for IoT development. Feel free to reach out to me in any of my socials!
+I've been coding for 4 years now, after switching careers. From mechanical engineer to software developer. Here I am! I started with the basics like HTML, CSS and JavasScript, but recently I have found a passion for the entire Web development spectrum, both backend and frontend, as well as for IoT development. Feel free to reach out to me in any of my socials!
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [Profile](http://caoh29.dev)
 * ✉️  You can contact me at [cronox20@gmail.com](mailto:cronox20@gmail.com)
 * 🚀  I'm currently working on [lc-auth](https://www.npmjs.com/package/lc-auth)
-* 🧠  I'm learning Springboot and Tensorflow
-* 🤝  I'm open to collaborating on IoT, machine learning and web development projects
+* 🧠  I'm learning mobile development using React Native and machine learning using TensorFlow
+* 🤝  I'm open to collaborating on IoT, machine learning, web and mobile development projects
 
 <a href="https://www.x.com/92iMAHC" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/92iMAHC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
