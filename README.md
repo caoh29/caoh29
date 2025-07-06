@@ -4,7 +4,7 @@ Hi 👋 My name is Camilo Ordonez
 Software developer & Mechanical Engineer
 ------------------
 
-I've been coding for 4 years now, after switching careers. From mechanical engineer to software developer. Here I am! I started with the basics like HTML, CSS and JavasScript, but recently I have found a passion for the entire Web development spectrum, both backend and frontend, as well as for IoT development. Feel free to reach out to me in any of my socials!
+I've been coding for 4 years now, after switching careers. From mechanical engineer to software developer. Here I am! I started with the basics like HTML, CSS some JavasScript and of course some arduino when I was in college. Recently I have found a passion for the entire Web development spectrum, both backend and frontend, as well as for IoT development. Feel free to reach out to me in any of my socials!
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [Profile](https://portfolio.caoh29.dev)
