@@ -7,7 +7,7 @@ Software developer & Mechanical Engineer
 I've been coding for 4 years now, after switching careers. From mechanical engineer to software developer. Here I am! I started with the basics like HTML, CSS and JavasScript, but recently I have found a passion for the entire Web development spectrum, both backend and frontend, as well as for IoT development. Feel free to reach out to me in any of my socials!
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [Profile](http://caoh29.dev)
+* 🖥️  See my portfolio at [Profile](https://portfolio.caoh29.dev)
 * ✉️  You can contact me at [cronox20@gmail.com](mailto:cronox20@gmail.com)
 * 🚀  I'm currently working on [lc-auth](https://www.npmjs.com/package/lc-auth)
 * 🧠  I'm learning mobile development using React Native and machine learning using TensorFlow
