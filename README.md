@@ -10,7 +10,7 @@ I've been coding for 4 years now, after switching careers. From mechanical engin
 * 🖥️  See my portfolio at [Profile](https://portfolio.caoh29.dev)
 * ✉️  You can contact me at [cronox20@gmail.com](mailto:cronox20@gmail.com)
 * 🚀  I'm currently working on [lc-auth](https://www.npmjs.com/package/lc-auth)
-* 🧠  I'm learning mobile development using React Native and machine learning using TensorFlow
+* 🧠  I'm deepen my knowledge in backend development as well as learning mobile development using React Native and machine learning using TensorFlow
 * 🤝  I'm open to collaborating on IoT, machine learning, web and mobile development projects
 
 <a href="https://www.x.com/92iMAHC" target="_blank" rel="noreferrer"><img
